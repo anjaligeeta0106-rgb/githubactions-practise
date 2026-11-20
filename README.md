@@ -1,0 +1,2 @@
+# githubactions-practise
+first pipeline
